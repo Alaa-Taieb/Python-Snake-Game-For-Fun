@@ -24,7 +24,7 @@ You can customize some aspects of the game by modifying the constants at the top
 
 ## Credits
 
-This game was created by [Your Name Here] as a test of Python programming skills. It is based on the classic Snake Game, which was first introduced in the late 1970s on arcade machines.
+This game was created by Alaa Taieb as a test of Python programming skills. It is based on the classic Snake Game, which was first introduced in the late 1970s on arcade machines.
 
 The Pygame library used in this game is an open-source library for Python that provides functionality for game development, and was created by a community of developers.
 
